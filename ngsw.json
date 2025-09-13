@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1757793725517,
-  "index": "https://github.com/MastoreOhadi/pwa-demo.git/index.html",
+  "timestamp": 1757793966259,
+  "index": "https://mastoreohadi.github.io/pwa-demo/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,11 +11,11 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://github.com/MastoreOhadi/pwa-demo.git/favicon.ico",
-        "https://github.com/MastoreOhadi/pwa-demo.git/index.html",
-        "https://github.com/MastoreOhadi/pwa-demo.git/main-KDAS2XSJ.js",
-        "https://github.com/MastoreOhadi/pwa-demo.git/manifest.webmanifest",
-        "https://github.com/MastoreOhadi/pwa-demo.git/styles-HKNHJBVO.css"
+        "https://mastoreohadi.github.io/pwa-demo/favicon.ico",
+        "https://mastoreohadi.github.io/pwa-demo/index.html",
+        "https://mastoreohadi.github.io/pwa-demo/main-KDAS2XSJ.js",
+        "https://mastoreohadi.github.io/pwa-demo/manifest.webmanifest",
+        "https://mastoreohadi.github.io/pwa-demo/styles-HKNHJBVO.css"
       ],
       "patterns": []
     },
@@ -27,33 +27,33 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://github.com/MastoreOhadi/pwa-demo.git/icons/icon-128x128.png",
-        "https://github.com/MastoreOhadi/pwa-demo.git/icons/icon-144x144.png",
-        "https://github.com/MastoreOhadi/pwa-demo.git/icons/icon-152x152.png",
-        "https://github.com/MastoreOhadi/pwa-demo.git/icons/icon-192x192.png",
-        "https://github.com/MastoreOhadi/pwa-demo.git/icons/icon-384x384.png",
-        "https://github.com/MastoreOhadi/pwa-demo.git/icons/icon-512x512.png",
-        "https://github.com/MastoreOhadi/pwa-demo.git/icons/icon-72x72.png",
-        "https://github.com/MastoreOhadi/pwa-demo.git/icons/icon-96x96.png"
+        "https://mastoreohadi.github.io/pwa-demo/icons/icon-128x128.png",
+        "https://mastoreohadi.github.io/pwa-demo/icons/icon-144x144.png",
+        "https://mastoreohadi.github.io/pwa-demo/icons/icon-152x152.png",
+        "https://mastoreohadi.github.io/pwa-demo/icons/icon-192x192.png",
+        "https://mastoreohadi.github.io/pwa-demo/icons/icon-384x384.png",
+        "https://mastoreohadi.github.io/pwa-demo/icons/icon-512x512.png",
+        "https://mastoreohadi.github.io/pwa-demo/icons/icon-72x72.png",
+        "https://mastoreohadi.github.io/pwa-demo/icons/icon-96x96.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://github.com/MastoreOhadi/pwa-demo.git/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "https://github.com/MastoreOhadi/pwa-demo.git/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "https://github.com/MastoreOhadi/pwa-demo.git/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "https://github.com/MastoreOhadi/pwa-demo.git/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "https://github.com/MastoreOhadi/pwa-demo.git/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "https://github.com/MastoreOhadi/pwa-demo.git/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "https://github.com/MastoreOhadi/pwa-demo.git/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "https://github.com/MastoreOhadi/pwa-demo.git/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "https://github.com/MastoreOhadi/pwa-demo.git/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "https://github.com/MastoreOhadi/pwa-demo.git/index.html": "2bec1b58ddeb958a0eb17b9e8ecfeecc5f687030",
-    "https://github.com/MastoreOhadi/pwa-demo.git/main-KDAS2XSJ.js": "5aba506e14037f88ed15b6706b659bfcd95c705d",
-    "https://github.com/MastoreOhadi/pwa-demo.git/manifest.webmanifest": "d2e3696a2a14f79ef9a93b400fb3a33e6ce48d25",
-    "https://github.com/MastoreOhadi/pwa-demo.git/styles-HKNHJBVO.css": "6aadc8de7f95771daf8ab10fe4ab4edfc4e2615e"
+    "https://mastoreohadi.github.io/pwa-demo/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "https://mastoreohadi.github.io/pwa-demo/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "https://mastoreohadi.github.io/pwa-demo/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "https://mastoreohadi.github.io/pwa-demo/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "https://mastoreohadi.github.io/pwa-demo/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "https://mastoreohadi.github.io/pwa-demo/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "https://mastoreohadi.github.io/pwa-demo/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "https://mastoreohadi.github.io/pwa-demo/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "https://mastoreohadi.github.io/pwa-demo/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "https://mastoreohadi.github.io/pwa-demo/index.html": "9807c9510d8c74460f9907170d095463f436e436",
+    "https://mastoreohadi.github.io/pwa-demo/main-KDAS2XSJ.js": "5aba506e14037f88ed15b6706b659bfcd95c705d",
+    "https://mastoreohadi.github.io/pwa-demo/manifest.webmanifest": "d2e3696a2a14f79ef9a93b400fb3a33e6ce48d25",
+    "https://mastoreohadi.github.io/pwa-demo/styles-HKNHJBVO.css": "6aadc8de7f95771daf8ab10fe4ab4edfc4e2615e"
   },
   "navigationUrls": [
     {
